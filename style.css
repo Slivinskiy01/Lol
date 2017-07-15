@@ -6,3 +6,10 @@ h1
 p {
 	text-indent: 30px;
 }
+div {
+	/*border: 1px solid #eaeaea;*/
+}
+*{
+	padding: 10px;
+ 	
+}
